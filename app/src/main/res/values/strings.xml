@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="plot">Plot Quiz</string>
+    <string name="actor_quiz">Random Actors</string>
+    <string name="begin_again">Replay</string>
+    <string name="back_intro">Home</string>
+    <string name="title_activity_film_list">FilmListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_information">About FilmQ</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="information_blurb">An app to test how well you actually know your films. All information comes straight from imdb.com so it\'s guaranteed to be correct whether or not you are! You can choose between quizzes about specific films of your choice, or try a random selection of questions to see how well you really know your films. Created by a group of students for 3D5.</string>
+    </resources>
